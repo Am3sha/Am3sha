@@ -68,7 +68,7 @@ A corporate website with an integrated assessment and benchmarking experience to
 ### 🤖 CareerFit AI
 An AI-focused career platform concept for CV analysis and matching skills with career paths and opportunities.
 
-[Open demo ↗](https://careerfit-ai-liart.vercel.app)
+[Open  ↗](https://icareer-ai.vercel.app/)
 
 </td>
 </tr>
