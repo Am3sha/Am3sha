@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/banner.svg" width="100%" alt="Youssef Amasha — Full-Stack Developer, AI and Cybersecurity" />
+<img src="banner.svg" width="100%" alt="Youssef Amasha — Full-Stack Developer, AI and Cybersecurity" />
 
 <p>
   <a href="https://github.com/Am3sha"><img src="https://img.shields.io/badge/GitHub-Am3sha-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
